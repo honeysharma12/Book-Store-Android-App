@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About app</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favorites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_app_fragment">About App Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_the_book">About the book</string>
+    <string name="add_to_favourites">Add To Favourites</string>
+    <string name="hello_world">Hello World</string>
+    <string name="android_inc">Android Inc.</string>
+    <string name="rs_499">Rs 499</string>
+    <string name="action_sort">Sort</string>
+    <string name="about_app_desc">This app shows the list of most popular books of all time.
+        It consists of total 10 books which are most popular all around the world.
+        You can click on a book to read a small description about it and there is also a option for adding
+        books to your favourites list . This app is solely made by Honey Sharma. I hope you like it.</string>
+    <string name="honey_sharma">Honey Sharma</string>
+    <string name="b_tech_cse">B.Tech CSE</string>
+    <string name="instagram_id_honeysharma_12">Instagram id = honeysharma.12</string>
+    <string name="linkedin_id_honeysharma12">Linkedin Id = honeysharma12</string>
+    <string name="github_id_honeysharma12">GitHub Id = honeysharma12</string>
+    <string name="hackerrank_id_honeysharma1789">HackerRank Id = honeysharma1789</string>
+    <string name="book_hub">Book Hub</string>
+</resources>
